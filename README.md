@@ -150,5 +150,5 @@ MIT License - Siehe LICENSE-Datei für Details
 
 ## Autor
 
-Ihr Name - [@yourhandle](https://github.com/Tirggel)
+[Peter Rubin](https://github.com/Tirggel)
 
